@@ -47,7 +47,8 @@ label="The number of watchmen per-ward stipulated in 27 Eliz. Private"
        
 ## ‘Are you good men and true?’: Shakespeare’s Night Watch
 
-Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left. He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
+Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left.\ 
+He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
 <param ve-image 
        label="Malone, Edward. Ed. The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage. In 21 volumes. London: C. Baldwin, 1821." 
        description="Text" 
@@ -62,10 +63,28 @@ https://internetshakespeare.uvic.ca/Library/facsimile/book/BPL_Q1_Ado/37/?work=&
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0047.JPG">
        
 ## ‘The Last of the Charlies’ 1640-1863
-
+Watchmen were often referred to as ‘Charlies’ after Charles I encouraged their more extensive use, establishing a paid watch in 1640, although it may also be related to the name Charlie being used as a term for an unreliable or foolish person.\
 William Anthony was believed to be the last remaining Charlie, born in 1789 and patrolling Spitalfields and Norton Folgate for 50 years until his death in 1863. He was regarded as an effective and determined presence, recording an unbroken sequence of ‘All’s Well’ throughout his tenure.
 <param ve-image 
        label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Last%20of%20the%20Charlies.jpg">
+       
+## ‘Suspected of evil designs’: Eighteenth-century policing
+
+Two further legislative reforms took place in the early and latter years of the eighteenth-century. The 10th Act of George II from 1737 (10 Geo II, c. 22) re-enacted Elizabeth I’s original act of 1585, but enlarged its powers. New instructions for a night watch were established, whereby the Common Council of the city would oversee its creation and governance, and were responsible for levying rates to pay for it. The night watch could act in the absence of the constables when keeping watch and ward, and enjoyed the same privileges of apprehending all night-walkers, malefactors, rogues, vagabonds, and disorderly people they ‘suspected of evil designs’.
+<param ve-image 
+       label="10 Geo II, c. 22" 
+       description="text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/10%20Geo%202%20c20%20An%20act%20for%20the%20better%20regulating%20the%20Nightly%20Watch....jpg">
+\
+The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of the 1585 and 1737 legislation – in effect repealing them both – and outlined, clearly, the logistical elements of the Watch: the annual number of watchmen; their wages; how they were to be armed and accommodated. The Act went on to detail a list of duties and how they were to conduct themselves whilst on duty. However, the watchmen developed reputations for being untrustworthy and, themselves, agents of crime. The general consensus was that reform was needed.
+<param ve-image 
+       label="14 Geo III, c. 90" 
+       description="text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/14%20Geo%203%20c90%20An%20Act%20for%20the%20better%20Regulation%20of%20the%20Nightly%20Watch.jpg">
+
+## ‘[A] proper body of honest, able, and active Officers’ [1798]
