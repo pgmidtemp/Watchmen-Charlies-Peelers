@@ -47,13 +47,13 @@ label="The number of watchmen per-ward stipulated in 27 Eliz. Private"
        
 ## ‘Are you good men and true?’: Shakespeare’s Night Watch
 
-Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, he tells the watch under his duty:
+Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left. He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
 <param ve-image 
        label="Malone, Edward. Ed. The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage. In 21 volumes. London: C. Baldwin, 1821." 
        description="Text" 
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Dogberry.jpg">
-Here, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left. He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
+       
 <param ve-image 
        label="Shakespeare, William. 1600 (Quarto version). Much ado about Nothing. London./
 https://internetshakespeare.uvic.ca/Library/facsimile/book/BPL_Q1_Ado/37/?work=&zoom=600" 
@@ -61,3 +61,11 @@ https://internetshakespeare.uvic.ca/Library/facsimile/book/BPL_Q1_Ado/37/?work=&
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0047.JPG">
        
+## ‘The Last of the Charlies’ 1640-1863
+
+William Anthony was believed to be the last remaining Charlie, born in 1789 and patrolling Spitalfields and Norton Folgate for 50 years until his death in 1863. He was regarded as an effective and determined presence, recording an unbroken sequence of ‘All’s Well’ throughout his tenure.
+<param ve-image 
+       label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
+       description="Illustration" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Last%20of%20the%20Charlies.jpg">
