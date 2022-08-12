@@ -168,3 +168,5 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
        description="Photograph" 
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0059.JPG">
+
+## ‘Remedying this Growing Evil’: Fielding and the Prevention of Crime (1751)
