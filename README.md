@@ -29,7 +29,7 @@ Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridi
 Furthermore, though some of them carried halberds or staffs, they were often armed with no more than candle-lanterns […]
 It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]
 On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’
-Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.   
+       Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.   
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
