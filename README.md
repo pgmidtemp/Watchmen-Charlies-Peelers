@@ -28,10 +28,18 @@ Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridi
 ‘These incumbents, who often had a job in the daytime too, tended to be desperate for any kind of employment. They were by no means qualified or trained to patrol the streets. And they didn't have a uniform. Instead, they put on thick, dark cloaks or coats to insulate them from the cold, and shrouded their heads in hats or long pieces of rag. […]\
 Furthermore, though some of them carried halberds or staffs, they were often armed with no more than candle-lanterns […]
 It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]\
-On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’
+On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’\
 Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.\
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
        license="Middle Temple Library" 
      url="https://www.middletemple.org.uk/sites/default/files/Uploads/17th%20century%20night%20watchman.jpg">
+     
+## ‘Many burglaries and robberies’: Elizabethan policing (1585-1600)
+
+During the height of the Elizabethan period, in 1585, further reforms to policing were introduced through a private Bill, which was then enacted under the title Act for the good government of the city and borough of Westminster (27 Eliz. Private.) Certain ordinances were made under this act for the regulation of domestic life in the City of Westminster. Bakers, brewers, colliers, woodmongers and bargemen were under strict rule as to how they were allowed to conduct their trade. The Act establishes the number of watchmen per-ward and the duties involved.
+<param ve-image 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0046.JPG">
+       
+       
