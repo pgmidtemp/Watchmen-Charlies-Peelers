@@ -25,15 +25,10 @@ The story of policing in London is a mutable and ever-changing one. The earliest
 ## Nightwatchmen and Nightwalkers (1500-1600)
 
 Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridicule. They were expected to check those passing through the gates and keep the streets as empty as possible. The Nightwatchmen had an often complex relationship with the Nightwalkers they were intended to police, as nightwalking continued to be at least indirectly criminalized until the nineteenth century.
-
 ‘These incumbents, who often had a job in the daytime too, tended to be desperate for any kind of employment. They were by no means qualified or trained to patrol the streets. And they didn't have a uniform. Instead, they put on thick, dark cloaks or coats to insulate them from the cold, and shrouded their heads in hats or long pieces of rag. […]
-
 Furthermore, though some of them carried halberds or staffs, they were often armed with no more than candle-lanterns […]
-
 It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]
-
 On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’
-
 Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.   
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
