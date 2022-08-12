@@ -40,6 +40,6 @@ label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. Londo
 
 During the height of the Elizabethan period, in 1585, further reforms to policing were introduced through a private Bill, which was then enacted under the title Act for the good government of the city and borough of Westminster (27 Eliz. Private.) Certain ordinances were made under this act for the regulation of domestic life in the City of Westminster. Bakers, brewers, colliers, woodmongers and bargemen were under strict rule as to how they were allowed to conduct their trade. The Act establishes the number of watchmen per-ward and the duties involved.
 <param ve-image 
-       url="(https://www.middletemple.org.uk/sites/default/files/Uploads/27%20Eliz.%20Private.jpg)">
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/27%20Eliz.%20Private.jpg">
        
        
