@@ -35,7 +35,7 @@ It is therefore not a complete overstatement to claim that public order in the m
 On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’
 
 Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.   
-
+<param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
        license="Middle Temple Library" 
