@@ -88,3 +88,25 @@ The second Act, which was passed in 1777 (14 Geo III, c. 90), took elements of t
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/14%20Geo%203%20c90%20An%20Act%20for%20the%20better%20Regulation%20of%20the%20Nightly%20Watch.jpg">
 
 ## ‘[A] proper body of honest, able, and active Officers’ [1798]
+Scottish magistrate Patrick Colquhoun (1745-1820) had a profound impact on the policing system in London during the late eighteenth and early nineteenth centuries. In his Treatise on the Police of the Metropolis, Colquhoun outlined the untrustworthiness of the authorities whose job it was to protect civilians – this was in direct response to eighteenth-century public opinions towards those in authority. Further to this general analysis, Colquhoun went on to outline the need for a ‘proper body of honest, able, and active officers and patroles’.\
+His comments follow those of Henry Fielding’s, whose work Colquhoun greatly admired; it summarised commonplace criminal offenses in London, and provided suggestions on how to prevent them.\
+Yeats, Grant David. 1818. A biographical sketch of the life and writings of Patrick Colquhoun. London: https://archive.org/details/abiographicalsk00yeatgoog/page/n10/mode/2up
+<param ve-image 
+       label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
+       description="photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0048.JPG">
+
+<param ve-image 
+       label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
+       description="text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Colquhoun%201.jpg">
+
+<param ve-image 
+       label="Colquhoun, Patrick. 1798. A Treatise on the Police of the Metropolis: Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security Are, at Present, Injured and Endangered, and Suggesting Remedies for Their Prevention. London. (Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
+       description="text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Colquhoun%202.jpg">
+
+       
