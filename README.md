@@ -29,7 +29,7 @@ Watchmen were ill-equipped, poorly paid and often corrupt, inept figures of ridi
 Furthermore, though some of them carried halberds or staffs, they were often armed with no more than candle-lanterns […]
 It is therefore not a complete overstatement to claim that public order in the metropolis at night in the sixteenth and seventeenth centuries depended on elderly, infirm, often inebriated, occasionally nefarious individuals […]\
 On the mean streets of the sixteenth and seventeenth centuries, before the introduction of public lighting, but perhaps right up to the introduction of a professional metropolitan police force in the early nineteenth century, nightwalkers and nightwatchmen, dressed alike in tattered, ragged clothes, could be hard to discriminate.’\
-Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.\
+Beaumont, Matthew. Nightwalking: A Nocturnal History of London. London: Verso, 2016.
 <param ve-image 
 label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
        description="Illustration" 
@@ -109,4 +109,62 @@ Yeats, Grant David. 1818. A biographical sketch of the life and writings of Patr
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/Colquhoun%202.jpg">
 
+## A Treatise on the commerce and police of the River Thames
+
+Presented to George III in 1800, Colquhoun’s second treatise analysed the commerce and police of the River Thames, specifically, the petty and organised crime on trade taking place on London’s great river. Its publication followed the establishment of the ‘River Police’ in 1798, founded in an attempt to quell the increase in criminal activity and sustain the prevention of crime for the long-term. Colquhoun’s work – in the form of his Treatise and establishment of an irregular police force, both supported by the philosopher Jeremy Bentham – had such an impact, that the government passed an act to establish the river police as a public body.\
+Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 28th July 1800 and set out the regulations on how the newly increased, and now formally established, River Police were to operate; reporting directly to the Home Secretary.
+<param ve-image 
+       label="3 Geo III. C. 87" 
+       description="text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/An%20act%20for%20the%20more%20effectual%20prevention.jpg">
+
+## Near where the charter'd Thames does flow: London at the turn of the century
+
+Contemporaries to Patrick Colquhoun include the writers William Blake (1767-1827) and William Wordsworth (1770-1850), both of whom wrote about London during the turn-of-the-nineteenth-century in their poetry. Blake’s poem ‘London’ (Songs of Experience, 1794) paints an oppressive and hopeless view of London:\
+I wander thro' each charter'd street,\
+Near where the charter'd Thames does flow.\
+And mark in every face I meet\
+Marks of weakness, marks of woe.\
+The narrator, whilst walking the streets of London, expresses the sense of stricture they feel upon entering the city: a reference to the London’s urban dominance over the ‘wild’ countryside, often depicted in Romantic poetry of the late eighteenth and long nineteenth centuries. Blake’s depiction of the ‘charter’d Thames’ not only highlights the rise of the industrial revolution and the growth of commerce in the Great City, but also the excessiveness of mapping and legalism. Colquhoun’s charter’d map of the Thames in his Treatise outlines the increase of law enforcement throughout the city and, unintentionally, stands as testament to Blake’s vision of London as an authoritarian metropolitan hub.
+<param ve-image 
+       label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames: Containing an Historical View of the Trade of the Port of London [...] With an Account of the Functions of the Various Magistrates and Corporations Exercising Jurisdiction on the River. London.
+(Courtesy of the Library at The Honourable Society of Lincoln’s Inn)" 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0051.JPG">
        
+## Brothers and Magistrates: The Fieldings
+
+The immortal novelist, Henry Fielding (1707-1754), and his brother, Sir John (1721-1780), were catalysts of change to the policing system in the eighteenth-century. Admitted to the Honourable Society of the Middle Temple in 1737, Henry Fielding was called to the bar there in 1740.
+A novelist and comic dramatist, often, alongside his contemporary Samuel Richardson (1689-1761), referred to as the father of the English modern novel, Fielding’s career as a barrister and magistrate is often overlooked. His work as a magistrate was highly praised due to his judicial reform and improvement of prison conditions.  Fielding supplemented the income from his practice as a barrister by writing novels, the most famous of which today is Tom Jones; a significant novel that highlights Fielding’s interest in the law and its upkeep.\
+John Fielding ‘was a most active and energetic magistrate, and he was such a constant terror to evil-doers that his life was often threatened’. He followed his brother’s tenure as Bow Street magistrate in 1754, after Henry’s death, and was renowned for dealing efficiently with highwaymen, housebreakers, lead-stealers, shoplifters, and the pickpockets – the small fry of the criminal world.
+<param ve-image 
+       label="Fielding's entry in the Barristers' Ledger (MT.3/BAL/1)" 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Fielding%27s%20entry%20in%20the%20Barristers%27%20ledger.jpg">
+<param ve-image 
+       label="Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0056.JPG">
+       
+## The Bow Street Runners (1749)
+Once regarded as the nexus of the police establishment in the mid-eighteenth century, the office at Bow Street, and its eight officers, were at the disposal of the public. They were provided with handcuffs, a pistol and a stick, and were paid a guinea a week to prevent criminal activity. The runners also received rewards from each successful conviction. At first, they wore their own clothes but were later given a uniform. Despite being a small establishment in the mid-eighteenth century, by 1800 there were sixty-eight Bow Street Runners.
+
+## Bow Street Police Museum
+
+This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.\
+https://bowstreetpolicemuseum.org.uk/
+
+## The mind-forg'd manacles: crime in 19th century literary London
+
+The image of shackles and handcuffs has become synonymous with convicts and criminal activity. These symbols of wrongdoing were propagated and popularised in literary works, such a Great Expectations, published in full in 1861 by Charles Dickens (1812-1870). The novel opens with the eponymous Philip ‘Pip’ Pirrip stealing an iron file for Abel Magwitch – the novel’s wrongly-accused convict – to escape from his leg-bound shackles. The above scenes from Great Expectations outline a conversation between Pip and his sister and brother-in-law, Joe, about the Hulks – prison ships. The Hulks transported those who murdered, robbed, forged and did ‘all sorts of bad’ to Australia in the nineteenth century as a means of punishment.\
+A member of the Honourable Society of the Middle Temple himself, before pursuing a career in writing, Dickens, often, wrote scathingly about the corruptness and incompetence of those supposed to be upholding the law. In the above scene, the narrator specifically targets both the constables and Bow Street Runners for their persistence ‘in trying to fit the circumstances to the ideas, instead of trying to extract ideas from the circumstances.’ Upholding and maintaining the law was one thing; but detecting and catching criminals was another.
+<param ve-image 
+       label="Pair of shackles/handcuffs with key and rope (1800s)\
+A pair of linked prison shackles with their key attached to them with a rope. The shackles originally belonged to Leslie Gilbert Brennan (Master Brennan's father). Donated to the library June 2014 by Master Janice Brennan." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0059.JPG">
