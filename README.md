@@ -153,7 +153,7 @@ Once regarded as the nexus of the police establishment in the mid-eighteenth cen
 ## Bow Street Police Museum
 
 This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.\
-https://bowstreetpolicemuseum.org.uk/
+[Museum website](https://bowstreetpolicemuseum.org.uk/)
 
 ## The mind-forg'd manacles: crime in 19th century literary London
 
@@ -170,8 +170,7 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
 
 Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.\
 The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.\
-Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.:\
-https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=frontcover&dq=%22Enquiry+into+the+causes+of+the+late+increase+in+robbers%22&hl=en&redir_esc=y#v=onepage&q&f=false
+[Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.](https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=frontcover&dq=%22Enquiry+into+the+causes+of+the+late+increase+in+robbers%22&hl=en&redir_esc=y#v=onepage&q&f=false)
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
        description="Photograph" 
@@ -221,8 +220,8 @@ Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers,
 
 ## Met Museums & Archives
 
-The Metropolitan Police’s heritage team looks after objects, archives, books and photographs relating to the history of the Met since 1829. They tell the lives of its officers and staff across London and beyond, and the crimes it has sought to solve.\
-https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/met-museums-archives/
+The Metropolitan Police’s heritage team looks after objects, archives, books and photographs relating to the history of the Met since 1829. They tell the lives of its officers and staff across London and beyond, and the crimes it has sought to solve.
+[Museum website](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/met-museums-archives)
 
 ## ‘The entire success of the police force’: The new Metropolitan police (1829)
 
@@ -274,7 +273,7 @@ I beg to add that a very strong feeling prevails on the subject. Many members of
 Your obedient servant,\
 George Bowyer\
 \
-Audio: https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?usp=sharing
+[Audio](https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?usp=sharing)
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
@@ -290,7 +289,7 @@ In answer to your letter of the 21st I beg to say that I have no wish to make co
 Your obedient servant,\
 George Bowyer\
 \
-Audio: https://drive.google.com/file/d/1Qa_FKOGq0IobFtkM_WXYn4CosaXFi5Uv/view?usp=sharing
+[Audio](https://drive.google.com/file/d/1Qa_FKOGq0IobFtkM_WXYn4CosaXFi5Uv/view?usp=sharing)
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
        description="Photograph" 
@@ -304,7 +303,7 @@ To the Treasurer of the Middle Temple,\
 \
 I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.\
 \
-Audio: https://drive.google.com/file/d/1sJ06wEwfzCIUSnZ5LvMozIzSvpqDzZ8W/view?usp=sharing
+[Audio](https://drive.google.com/file/d/1sJ06wEwfzCIUSnZ5LvMozIzSvpqDzZ8W/view?usp=sharing)
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
        description="Photograph" 
@@ -318,7 +317,7 @@ Letter from A.V. Kirwan complaining of noise at his window caused by the Police'
 Dear Sir,\
 I am loathe to give notice to quit in these chambers which suit me well, but the truth is, since the police have come in it is impossible to sit here for the noises. The old warders drove away children and noisy drunken people, but the police allow them to congregate. I would also mention that the ticket porters one [illegible] especially is continuing making a noise and using low and obscene language under my window while idly sitting on the bench in Tanfield Court. I regret to be obliged to complain but the nuisance has been quite intolerable for some months.\
 \
-Audio: https://drive.google.com/file/d/1QEip1mH1J4gq0qjyEZGmEWI5CwMF4r6B/view?usp=sharing
+[Audio](https://drive.google.com/file/d/1QEip1mH1J4gq0qjyEZGmEWI5CwMF4r6B/view?usp=sharing)
 <param ve-image 
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
@@ -339,8 +338,7 @@ This is Watchman & Porter badge number five, of seven badges held in total. It w
 
 Porters and watchmen have served the Middle Temple for centuries, dating back at least to 1587, with the policing of the Inn always being one of their many roles.\
 ‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’\
-Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple:\
-https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple
+[Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple)
 <param ve-image 
        label="Beats of the Middle Temple Watchmen 1850" 
        description="Photograph" 
