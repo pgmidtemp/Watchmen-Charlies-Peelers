@@ -124,10 +124,12 @@ Depredations on the Thames Act 1800 (3 Geo III. C. 87) received Royal Assent on 
 ## Near where the charter'd Thames does flow: London at the turn of the century
 
 Contemporaries to Patrick Colquhoun include the writers William Blake (1767-1827) and William Wordsworth (1770-1850), both of whom wrote about London during the turn-of-the-nineteenth-century in their poetry. Blake’s poem ‘London’ (Songs of Experience, 1794) paints an oppressive and hopeless view of London:\
+\
 I wander thro' each charter'd street,\
 Near where the charter'd Thames does flow.\
 And mark in every face I meet\
 Marks of weakness, marks of woe.\
+\
 The narrator, whilst walking the streets of London, expresses the sense of stricture they feel upon entering the city: a reference to the London’s urban dominance over the ‘wild’ countryside, often depicted in Romantic poetry of the late eighteenth and long nineteenth centuries. Blake’s depiction of the ‘charter’d Thames’ not only highlights the rise of the industrial revolution and the growth of commerce in the Great City, but also the excessiveness of mapping and legalism. Colquhoun’s charter’d map of the Thames in his Treatise outlines the increase of law enforcement throughout the city and, unintentionally, stands as testament to Blake’s vision of London as an authoritarian metropolitan hub.
 <param ve-image 
        label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames: Containing an Historical View of the Trade of the Port of London [...] With an Account of the Functions of the Various Magistrates and Corporations Exercising Jurisdiction on the River. London.
