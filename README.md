@@ -287,12 +287,12 @@ Audio: https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?us
 ## 25 July 1857     
 
 Letter from George Bowyer to the Under-Treasurer concerning the presence of the Police in the Inn and its effect on its style and collegiate character.\
-
+\
 Sir,\
 In answer to your letter of the 21st I beg to say that I have no wish to make complaints against the Police. They are a most useful and a respectable body of men. But they are out of place in a collegiate house like the Temple, and inconveniences must result from their introduction here. The style and ancient collegiate character of the house are altered by the late change. We no longer see the servants of the house in their liveries at the gates, and in the courts and gardens. The Temple is now like a London street, and no longer like a college. It’s privacy and peculiar gentlemen-like character are destroyed, which were quite a remarkable feature of London, and this has been done on the paltry plea of saving £210 a year and ultimately £300 a year [£25,000 to £35,000 by today’s standards] without consulting the wishes and feelings of the barristers living in the Inn. They will soon find the Temple so changed that they will many of them go to live elsewhere to the diminution of the rents of the Society. I beg that this letter may be laid before the Masters of the Bench.\
 Your obedient servant,\
 George Bowyer\
-
+\
 Audio: https://drive.google.com/file/d/1Qa_FKOGq0IobFtkM_WXYn4CosaXFi5Uv/view?usp=sharing
 <param ve-image 
        label="George Bowyer, 25th July 1857" 
@@ -304,9 +304,9 @@ Audio: https://drive.google.com/file/d/1Qa_FKOGq0IobFtkM_WXYn4CosaXFi5Uv/view?us
 
 Letter from Richard Paternoster to the Treasurer, complaining of the noise made by the Police outside his chambers at night, and its effects on his health.\
 To the Treasurer of the Middle Temple,\
-
+\
 I hereby give you notice and require of you to put a stop to the nuisance caused to me by policemen tramping under my windows at night from the noise of which my rest is continually broken every night my comfort and privacy entirely destroyed and my health materially injured and my chambers rendered untenantable and which noise and nuisance are in violation of the contract entered into when I took chambers at this society of which I am a member and a partner and contrary to the ancient and immemorial rights customs and privileges of this Inn.\
-
+\
 Audio: https://drive.google.com/file/d/1sJ06wEwfzCIUSnZ5LvMozIzSvpqDzZ8W/view?usp=sharing
 <param ve-image 
        label="Richard Paternoster, 5th October 1857" 
@@ -317,10 +317,10 @@ Audio: https://drive.google.com/file/d/1sJ06wEwfzCIUSnZ5LvMozIzSvpqDzZ8W/view?us
 ## 27 October 1857        
 
 Letter from A.V. Kirwan complaining of noise at his window caused by the Police's failure to disperse children and drunkards and a Ticket Porter's habitual use of obscene language.\
-
+\
 Dear Sir,\
 I am loathe to give notice to quit in these chambers which suit me well, but the truth is, since the police have come in it is impossible to sit here for the noises. The old warders drove away children and noisy drunken people, but the police allow them to congregate. I would also mention that the ticket porters one [illegible] especially is continuing making a noise and using low and obscene language under my window while idly sitting on the bench in Tanfield Court. I regret to be obliged to complain but the nuisance has been quite intolerable for some months.\
-
+\
 Audio: https://drive.google.com/file/d/1QEip1mH1J4gq0qjyEZGmEWI5CwMF4r6B/view?usp=sharing
 <param ve-image 
        label="A.V.Kirwan, 27th October 1857" 
