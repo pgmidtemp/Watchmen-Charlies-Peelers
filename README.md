@@ -322,8 +322,9 @@ I am loathe to give notice to quit in these chambers which suit me well, but the
        label="A.V.Kirwan, 27th October 1857" 
        description="Photograph" 
        license="Middle Temple Library" 
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0069.JPG">
-       
+       url="https://user-images.githubusercontent.com/110111269/184658934-a8a250a9-7fcc-407a-a4a6-4bbe42972ca6.JPG">
+      
+
 ## The badge of a Middle Temple Watchman circa 1842
 
 As far back as the seventeenth century the watchmen and porters could be seen wearing silver badges. The Inn’s silver collection includes a Head Porter’s badge from around 1685.\
