@@ -241,7 +241,7 @@ In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated 
 
 The introduction of the City Police to Middle Temple in 1857 was a contentious issue. The following documents on display are petitions and letters from members concerned by the introduction of the police to Middle Temple, expressing grave concerns about their purpose and presence.
 
-# 7 May 1857 & 17 June 1857
+## 7 May 1857 & 17 June 1857
 
 Copy of a Resolution of the Inner Temple Bench Table concerning agreement with the Middle Temple's resolution regarding the Police of the Temple and the City of London Police.\
 On the 7th May Middle Temple agrees to consolidate the Inn’s police under one head and to allow in the City police, under the proviso that Inner Temple has no objections, and moves to form a committee to put this into effect. In a clear sign that the issue was a contentious one, the 17th June sees Inner temple agreeing to the consolidation, but defers the decision on the City police.
@@ -270,7 +270,6 @@ The petition states that it is with ‘extreme regret’ that they hear the Mast
 ## 16 July 1857     
 
 Letter from George Bowyer concerning a barrister having been dragged from the Temple by the Police.\ 
-
 Sir,\
 I beg to call your attention to the fact that a short time ago a barrister of the Middle Temple was dragged out of the Temple in the night by the Police, and compelled to appear before the city magistrate in the morning. I do not inquire whether he was right or wrong. I only ask whether this scandal on our house could possibly have happened under our ancient and immemorial system. I should like to know what would be thought of a graduate residing in a college in Oxford or Cambridge being so treated. It seems to me that this event shows the inconveniences which are likely to arise from the act of the benchers, who have altered the character of the house and its ancient constitution and privileges, without even ascertaining the wishes and feelings of the barristers residing therein.\
 I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.\
