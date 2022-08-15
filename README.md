@@ -270,13 +270,13 @@ The petition states that it is with ‘extreme regret’ that they hear the Mast
 ## 16 July 1857     
 
 Letter from George Bowyer concerning a barrister having been dragged from the Temple by the Police.\
-
+\
 Sir,\
 I beg to call your attention to the fact that a short time ago a barrister of the Middle Temple was dragged out of the Temple in the night by the Police, and compelled to appear before the city magistrate in the morning. I do not inquire whether he was right or wrong. I only ask whether this scandal on our house could possibly have happened under our ancient and immemorial system. I should like to know what would be thought of a graduate residing in a college in Oxford or Cambridge being so treated. It seems to me that this event shows the inconveniences which are likely to arise from the act of the benchers, who have altered the character of the house and its ancient constitution and privileges, without even ascertaining the wishes and feelings of the barristers residing therein.\
 I beg to add that a very strong feeling prevails on the subject. Many members of the Middle Temple feel that for sake of a paltry saving, which good management would have rendered [illegible], the collegiate character of the house has been destroyed, and the privileges of this honourable society extinguished by a self-elected body.\
 Your obedient servant,\
 George Bowyer\
-
+\
 Audio: https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?usp=sharing
 <param ve-image 
        label="George Bowyer, 16th July 1857" 
