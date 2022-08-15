@@ -282,7 +282,7 @@ Audio: https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?us
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
        license="Middle Temple Library" 
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0068.JPG">
+       url="https://user-images.githubusercontent.com/110111269/184645718-b8180e03-76b6-4e91-a1cc-9d4170acc5ea.JPG">
 
 ## 25 July 1857     
 
