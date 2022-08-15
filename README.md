@@ -170,3 +170,71 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0059.JPG">
 
 ## ‘Remedying this Growing Evil’: Fielding and the Prevention of Crime (1751)
+
+Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.\
+The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.\
+Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.:\
+https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=front...
+<param ve-image 
+       label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Increase%20of%20robbers%201.jpg">
+       
+<param ve-image 
+       label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
+       description="Text" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Increase%20of%20robbers%202.jpg">
+       
+<param ve-image 
+       label="Lawrence, Frederick. The life of Henry Fielding : with notices of his writings, his times and his contemporaries. London: Arthur Hall, Virtue and Co. 1855." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0058.JPG">
+       
+<param ve-image 
+       label="Jones, B.M. Henry Fielding, novelist and magistrate. London: George Allen & Unwin, 1933." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0057.JPG">
+       
+## Metropolitan Police Act 1829
+
+Peel’s solution and the next significant step forwards lay in the Metropolitan Police Improvement Bill of 1829. He provided statistics laying bare the extent of criminality in England, for instance ‘the ratio was one criminal to every 822 of the population […] in London alone.’ As well as decrying the inefficiency of the current watch system, whilst putting the Commons at ease by presenting his ideas as evolution rather than revolution to the current system. The Bill passed through both houses and received Royal Assent with relative ease, perhaps in part due to receiving a casual level of interest.
+
+## Responses to the new Metropolitan Police Service, 1829
+
+‘The fact that the Metropolitan Police, founded amidst an atmosphere of prejudice, suspicion, and hostility, grew into one of the most respected police forces in the world, must be largely due to the outstanding ability of the first Commissioners, a retired army officer, Colonel Rowan, and a barrister, Mr. (later Sir Richard) Mayne [of Lincoln’s Inn]. These two, between them, moulded the concept of the unarmed, citizen-constable, equally conscious of his civic as of his peace-keeping responsibilities, which has been such a valued feature of the administrative life in this country ever since. […]\
+A couple of the instructions to the police issued at the outset by Mayne may be quoted, as they set the pattern for the standards of behaviour he wished them to follow. A constable, he said, must have “a perfect command of temper”, and “must never suffer himself to be moved in the slightest degree by any language or threats that may be used”. Next, “The constables are to recollect on all occasions that they are required to execute their duty with good temper and discretion; any unnecessary violence by them in striking the party in their charge, will be severely punished. […]\
+The code of discipline was rigorous and during the first nine years of the force, nearly 5,000 constables were dismissed for failing to fulfil its requirements.’\
+Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers, 1999.
+<param ve-image 
+       label="The early years of the police were marred by violent clashes, which did little to change the animosity amongst the population towards the new organisation.\
+       The police, wearing Peel’s early uniform, contend with a mob at at Coldbath fields, 1833. Griffiths, Arthur. Mysteries of police and crime. In three volumes. London: Cassell, 1901-1902." 
+       description="Illustration" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/Fight%20between%20police%20and%20mob%20at%20coldbath%20fields%20in%201833.jpg">
+
+<param ve-image 
+       label="Charnock, Richard. The police guide : containing the Metropolitan and City of London Police Acts. London: Richards, 1841." 
+       description="Illustration" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0060.JPG">
+
+## Met Museums & Archives
+
+The Metropolitan Police’s heritage team looks after objects, archives, books and photographs relating to the history of the Met since 1829. They tell the lives of its officers and staff across London and beyond, and the crimes it has sought to solve.\
+https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/met-museums-archives/
+
+## ‘The entire success of the police force’: The new Metropolitan police (1829)
+
+The new police were colloquially referred to as Peelers: “1858 Penny Cycl. 2nd Suppl. 494/1 Mr. Peel as Home Secretary, introduced . . the new Metropolitan Police Act [1829] which provided London with its efficient body of ‘Peelers’, subject to the Home Office, in lieu of the Old ‘Charlies’ (Simpson, Weiner, Eds., The Oxford English Dictionary, 2nd Ed., Vol XI, Oxford: Clarendon Press, 1989). The 1839 renewal of the original Metropolitan Police Act was designed to integrate the various iterations of policing already extant in London at that time: The Bow Street Runners, the river police, and the few Watchmen whose role served little purpose by the turn-of-the-nineteenth-century. Despite reactionary attitudes to the introduction of the new force, many established individuals in London, including politicians, praised Peel’s reformation of policing and his commitment to reducing London’s crime.\
+In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated Peel on the “entire success” of his newly-established force. Such opinions were different to those held by members of the Honourable Society of the Middle Temple twenty years after the formation of the Metropolitan Police.
+<param ve-image 
+       label="Stuart Parker, C. Sir Robert Peel in early life ... as Irish Secretary ... and as Secretary of State ... from his private correspondence. In three volumes. London: John Murray, 1891-1899." 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0061.JPG">
+       
+## City Police and the Middle Temple (1857)
