@@ -6,13 +6,6 @@
        banner="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
- 
-
-<param ve-entity eid="Q925942"> <!-- Middle Temple -->
-
 <iframe width="622" height="350" src="https://www.youtube.com/embed/-AnQThyHSzU" title="Watchmen, Charlies, Peelers: The Story of Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Watch and Ward: Early Policing (1233-1500)
