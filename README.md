@@ -174,7 +174,7 @@ A pair of linked prison shackles with their key attached to them with a rope. Th
 Henry Fielding’s Enquiry – published in January 1751 – was written during his tenure as Bow Street Magistrate from 1748 until 1753.  Fielding was not only concerned with establishing a new system of policing, but was also focused on the long-term prevention of crime. This approach was commended by Patrick Colquhoun, who, in a footnote in his own Treatise of 1800, outlined that Fielding was both ‘able and excellent’ in his role as Justice of the Peace and for his work on ‘remedying this growing evil’ that had ‘manifested’ in London.\
 The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of these men are no longer moderate, and their wantonness is inhuman and unbearable, they think of nothing but murder, arson, and rape’. His use of Greek literature was an analogy to the state of public morality and crime in the mid-eighteenth century. His Enquiry went on to have a lasting influence on the debate about the prevention of crime in London, leading up to Sir Robert Peel’s Metropolitan Police Act in 1829.\
 Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London.:\
-https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=front...
+https://books.google.co.uk/books?id=RnBKAAAAMAAJ&newbks=0&printsec=frontcover&dq=%22Enquiry+into+the+causes+of+the+late+increase+in+robbers%22&hl=en&redir_esc=y#v=onepage&q&f=false
 <param ve-image 
        label="Fielding, Henry. 1751. An Enquiry into the Cause of the Late Increase of Robbers, &c., With Some Proposals for Remedying this Growing Evil. London." 
        description="Photograph" 
@@ -328,7 +328,7 @@ Audio: https://drive.google.com/file/d/1QEip1mH1J4gq0qjyEZGmEWI5CwMF4r6B/view?us
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0069.JPG">
        
-##The badge of a Middle Temple Watchman circa 1842
+## The badge of a Middle Temple Watchman circa 1842
 
 As far back as the seventeenth century the watchmen and porters could be seen wearing silver badges. The Inn’s silver collection includes a Head Porter’s badge from around 1685.\
 This is Watchman & Porter badge number five, of seven badges held in total. It was made to order by George Cording, watchmaker and jeweller, in 1842. The leopard head in the maker/sponsor’s mark shows that it is London silver, and it is struck with the mark of James Charles Edington, a silversmith working in Soho from 1828 to around 1869.
