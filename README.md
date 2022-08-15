@@ -49,7 +49,7 @@ label="The number of watchmen per-ward stipulated in 27 Eliz. Private"
        
 ## ‘Are you good men and true?’: Shakespeare’s Night Watch
 
-Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left.\\ 
+Early watchmen were considered as incompetent and, oftentimes, illiterate. In Shakespeare’s Much Ado About Nothing (1600), Dogberry, the constable of Messina who oversees the prince’s night watch, is depicted as such in the instructions he issues and the language he employs. In Act III, Scene iii, Dogberry instructs the watch to make sure that those who are drunk get to bed and be left.\
 He goes on to outline that they must make no noise when on duty; to ensure that nurses are not woken while the children in their care are crying, and to offend no-one. Dogberry confuses the word ‘sensible’ with ‘senseless’, enforcing the stereotype that the watchmen’s philosophy towards peace-keeping is lax at best and senseless at worst.
 <param ve-image 
        label="Malone, Edward. Ed. The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage. In 21 volumes. London: C. Baldwin, 1821." 
