@@ -149,11 +149,21 @@ John Fielding ‘was a most active and energetic magistrate, and he was such a c
        
 ## The Bow Street Runners (1749)
 Once regarded as the nexus of the police establishment in the mid-eighteenth century, the office at Bow Street, and its eight officers, were at the disposal of the public. They were provided with handcuffs, a pistol and a stick, and were paid a guinea a week to prevent criminal activity. The runners also received rewards from each successful conviction. At first, they wore their own clothes but were later given a uniform. Despite being a small establishment in the mid-eighteenth century, by 1800 there were sixty-eight Bow Street Runners.
+<param ve-image 
+       label="Bow Street plaque" 
+       description="Photograph" 
+       license="Creative Commons attribution 2.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bow_Street_plaque.JPG/450px-Bow_Street_plaque.JPG?20140923200945">
 
 ## Bow Street Police Museum
 
 This recently-opened museum tells the story of the Bow Street Runners and the Metropolitan Police officers who patrolled the streets of Covent Garden in their footsteps. From eighteenth century crime fighting to the closure of one of London's first police stations in 1992, explore the important and fascinating tales of Bow Street and its unique links with police history.\
 [Museum website](https://bowstreetpolicemuseum.org.uk/)
+<param ve-image 
+       label="Bow Street Magistrates Court." 
+       description="Photograph" 
+       license="Creative Commons attribution 2.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bow_Street_Magistrates_Court-514555747.jpg/640px-Bow_Street_Magistrates_Court-514555747.jpg">
 
 ## The mind-forg'd manacles: crime in 19th century literary London
 
@@ -198,6 +208,11 @@ The frontispiece of Fielding’s Enquiry, quotes Cicero: ‘For the lusts of the
 ## Metropolitan Police Act 1829
 
 Peel’s solution and the next significant step forwards lay in the Metropolitan Police Improvement Bill of 1829. He provided statistics laying bare the extent of criminality in England, for instance ‘the ratio was one criminal to every 822 of the population […] in London alone.’ As well as decrying the inefficiency of the current watch system, whilst putting the Commons at ease by presenting his ideas as evolution rather than revolution to the current system. The Bill passed through both houses and received Royal Assent with relative ease, perhaps in part due to receiving a casual level of interest.
+<param ve-image 
+       label="Metropolitan Police Act 1929" 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://user-images.githubusercontent.com/110111269/184673359-9c39523c-94d8-45d4-8b67-3073e8d102cf.jpg">
 
 ## Responses to the new Metropolitan Police Service, 1829
 
@@ -222,6 +237,12 @@ Babbington, A. A House in Bow Street. 2nd ed. London: Barry Rose Law Publishers,
 
 The Metropolitan Police’s heritage team looks after objects, archives, books and photographs relating to the history of the Met since 1829. They tell the lives of its officers and staff across London and beyond, and the crimes it has sought to solve.
 [Museum website](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/met-museums-archives)
+<param ve-image 
+       label="1840s City of London Police constable's uniform" 
+       description="Photograph" 
+       license="Creative Commons attribution 2.0" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1840s_City_of_London_Police_constable%27s_uniform.jpg/337px-1840s_City_of_London_Police_constable%27s_uniform.jpg?20200503123854">
+
 
 ## ‘The entire success of the police force’: The new Metropolitan police (1829)
 
@@ -236,6 +257,11 @@ In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated 
 ## City Police and the Middle Temple (1857)
 
 The introduction of the City Police to Middle Temple in 1857 was a contentious issue. The following documents on display are petitions and letters from members concerned by the introduction of the police to Middle Temple, expressing grave concerns about their purpose and presence.
+<param ve-image 
+       label="Middle Temple Hall" 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg/800px-Middle_Temple_Hall_Exterior%2C_London%2C_UK_-_Diliff.jpg?20140314094909">
 
 ## 7 May 1857 & 17 June 1857
 
