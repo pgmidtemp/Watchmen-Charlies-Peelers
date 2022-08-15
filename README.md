@@ -344,3 +344,8 @@ Porters and watchmen have served the Middle Temple for centuries, dating back at
 ‘The duties of the Porter were, then, chiefly to keep undesirables out of the Inn and prevent them from harassing those dining in Hall. An order of Parliament in 1652 also names the Porter as one of the officers appointed to carry corpses, and in 1654 a fuller account is given of the increasingly varied role, which required the incumbent to 'industriously keep clean the courts, look to the gate and House, and at least once every night walk about the courts and up every stairs to prevent robberies, which have lately been often committed' and to 'keep out of the House all vagrant people who cry 'milk' or any other thing, not usual and proper to this Society.'’\
 Archive of the Month June 2019: Five Centuries of Keeping the Peace - The Porters of Middle Temple:\
 https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-centuries-keeping-peace-porters-middle-temple
+<param ve-image 
+       label="Beats of the Middle Temple Watchmen 1850" 
+       description="Photograph" 
+       license="Middle Temple Library" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG">
