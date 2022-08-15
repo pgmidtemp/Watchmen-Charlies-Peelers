@@ -283,6 +283,7 @@ Audio: https://drive.google.com/file/d/1Mo0JtqO69hrH8mM3CKsuLQi7t5sABJWD/view?us
        description="Photograph" 
        license="Middle Temple Library" 
        url="https://user-images.githubusercontent.com/110111269/184645718-b8180e03-76b6-4e91-a1cc-9d4170acc5ea.JPG">
+![IMG_0068](https://user-images.githubusercontent.com/110111269/184646125-a9247f36-122f-4a27-b006-afcd7b06b028.JPG)
 
 ## 25 July 1857     
 
