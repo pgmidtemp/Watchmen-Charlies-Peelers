@@ -350,4 +350,10 @@ https://www.middletemple.org.uk/archive-history/archive-month/june-2019-five-cen
        license="Middle Temple Library" 
        url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG">
 
-<iframe width="643" height="361" src="https://www.youtube.com/embed/-AnQThyHSzU" title="Watchmen, Charlies, Peelers: The Story of Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/-AnQThyHSzU" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
