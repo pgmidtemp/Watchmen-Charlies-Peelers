@@ -278,7 +278,7 @@ George Bowyer\
        label="George Bowyer, 16th July 1857" 
        description="Photograph" 
        license="Middle Temple Library" 
-       url="https://user-images.githubusercontent.com/110111269/184646125-a9247f36-122f-4a27-b006-afcd7b06b028.JPG">
+       url="https://user-images.githubusercontent.com/110111269/184659167-3bc54c88-cca0-43eb-a9a1-6f1cc5720649.JPG">
 
 ## 25 July 1857     
 
