@@ -241,7 +241,7 @@ In a letter to Peel, The Duke of Wellington, on November 5, 1829, congratulated 
 
 The introduction of the City Police to Middle Temple in 1857 was a contentious issue. The following documents on display are petitions and letters from members concerned by the introduction of the police to Middle Temple, expressing grave concerns about their purpose and presence.
 
-## 7 May 1857 & 17 June 1857
+# 7 May 1857 & 17 June 1857
 
 Copy of a Resolution of the Inner Temple Bench Table concerning agreement with the Middle Temple's resolution regarding the Police of the Temple and the City of London Police.\
 On the 7th May Middle Temple agrees to consolidate the Inn’s police under one head and to allow in the City police, under the proviso that Inner Temple has no objections, and moves to form a committee to put this into effect. In a clear sign that the issue was a contentious one, the 17th June sees Inner temple agreeing to the consolidation, but defers the decision on the City police.
